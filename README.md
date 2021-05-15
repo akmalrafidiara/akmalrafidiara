@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+These are just a few of the projects I've worked on🤔
 <!--
 **akmalrafidiara/akmalrafidiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
