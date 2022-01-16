@@ -1,5 +1,5 @@
 <h1 align="center">This Akmal Rafi Page 👋</h1>
-<h3 align="center">Backend Website Developer Enthusiasm</h3>
+<h3 align="center">Backend Website Developer</h3>
 
 - 🌱 I’m currently learning **Math??**
 
