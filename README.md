@@ -1,7 +1,7 @@
 <h1 align="center">This Akmal Rafi Page 👋</h1>
 <h3 align="center">Backend Website Developer</h3>
 
-- 🌱 I’m currently learning **Math??**
+- 🌱 I teach web design and developer extracurricular at **State Vocational High School 6 Jakarta**
 
 - 🎓 I'm studying **Computer Science at State University of Jakarta**
 
