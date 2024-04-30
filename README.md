@@ -1,5 +1,5 @@
 <h1 align="center">This Akmal Rafi Page 👋</h1>
-<h3 align="center">Backend Website Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 - 🌱 I teach web design and developer extracurricular at **State Vocational High School 6 Jakarta**
 
