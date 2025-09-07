@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Akmal Rafi Diara Putra<br><br>🔭 Currently:<br>Interning at Indi Technology<br>Working as IT Support at WisataSekolah and Caventer Indonesia<br>Former Web Development Extracurricular Teacher at SMK Negeri 6 Jakarta<br><br>🎓 Education:<br>Pursuing a Bachelor’s Degree in Computer Science at Universitas Negeri Jakarta<br><br>💡 What I do:<br>Web Development<br>Backend Development (API, Database, and Systems)<br>IT Support<br>Digital Transformation & Website Design<br><br>🚀 Projects & Skills:<br>Extensive experience with Laravel, Next.js, and various web technologies<br>Passionate about building impactful web applications and improving user experience
+👋 Hi there! I'm Akmal Rafi Diara Putra<br><br>🔭 Currently:<br>Working as Freelance IT Support and Fullstack Developer<br><br>🎓 Education:<br>Bachelor’s Degree in Computer Science at Universitas Negeri Jakarta<br><br>💡 What I do:<br>Web Development<br>Backend Development (API, Database, and Systems)<br>IT Support<br>Digital Transformation & Website Design<br><br>🚀 Projects & Skills:<br>Extensive experience with Laravel, Next.js, and various web technologies<br>Passionate about building impactful web applications and improving user experience
 
 
 ## 🌐 Socials:
